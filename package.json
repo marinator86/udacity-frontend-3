@@ -1,0 +1,25 @@
+{
+  "name": "mario_hammer_fr3",
+  "version": "1.0.0",
+  "description": "Udacity Frontend 3 project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinator86/udacity-frontend-3.git"
+  },
+  "author": "Mario Hammer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinator86/udacity-frontend-3/issues"
+  },
+  "homepage": "https://github.com/marinator86/udacity-frontend-3#readme",
+  "dependencies" : {
+    "express" : "4.17.1",
+    "cors" : "2.8.5",
+    "body-parser" : "1.19.0"
+  }
+}
